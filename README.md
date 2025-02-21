@@ -72,7 +72,9 @@ All features cost money to maintain. Please support us to keep Hanni Bot online:
 
 ## My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kpopdev)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpopdev)
+
+## K-Pop Dev Badge
+[![K-Pop Dev](https://img.shields.io/badge/K-Pop_Dev-❤️-pink)](https://github.com/kpopdev)
 
 ## Pinned Projects
 - **[Hanni Bot](https://top.gg/bot/624955196040282123)** - The ultimate Discord notification, AI, and downloader bot.
