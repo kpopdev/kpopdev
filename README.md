@@ -70,11 +70,11 @@ All features cost money to maintain. Please support us to keep Hanni Bot online:
 - 🌐 Proficient in Korean, English, and West Slavic languages.
 - 📊 Experienced with APIs (YouTube, Instagram, Twitter, etc.) and open-source contributions.
 
-## My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kpopdev)
-
-## K-Pop Dev Badge
-[![K-Pop Dev](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://github.com/kpopdev)
+## My GitHub Achievements
+![Quickdraw](https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png)
+![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)
+![Pair Extraordinaire](https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 ## Pinned Projects
 - **[Hanni Bot](https://top.gg/bot/624955196040282123)** - The ultimate Discord notification, AI, and downloader bot.
