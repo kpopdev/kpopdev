@@ -1,26 +1,111 @@
 # Kyla (kpopdev) 👋
 
-Hi, I’m Kyla! I’m a passionate bot developer creating Discord bots and Python tools for communities. ❤️🐍
+Hi, I’m Kyla, the owner and creator of **Hanni Bot**—the best notification, AI, and downloader Discord bot with over 1,000,000 users and growing fast! Currently, Hanni Bot is active in 10,000+ Discord servers, delivering lightning-fast updates and features for social media, K-pop, streaming, and more. ❤️🐍🤖
 
 ## About Me
-- 🔭 I’m currently working on Discord bots like [Lavalink](https://github.com/lavalink-devs/Lavalink) and [Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot).
-- 🌱 I’m learning more about Python and open-source development.
-- 💬 Ask me about Discord bots or music players!
-- 🎵 Inspired by K-pop and coding—check out my K-pop-themed bots!
-- 📫 Reach me on Discord: @kylawu or email: hanni_bot@gmail.com
-- 🌐 [Discord Server](https://discord.gg/hanni-support-server-1051)
+- 🔭 I’m currently working on **Hanni Bot** (https://top.gg/bot/624955196040282123), a powerful Discord bot, and contributing to open-source projects like [Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot).
+- 🌱 I’m learning and mastering Python, Java, and more to enhance my bot development skills.
+- 💬 Ask me about Discord bots, K-pop notifications, or programming—I’m here to help! My Discord username is `@kylauwu`.
+- 🎵 Inspired by K-pop and coding, I bring my passion for K-pop into Hanni Bot’s features!
+- 🌐 Languages: Fluent in Korean, English, and West Slavic languages.
+- 📫 Reach me on Discord: `@kylauwu` or email: dabdab683@gmail.com
+- 🌐 [Hanni Bot Support Server](https://discord.gg/mXSDAv3ygJ) | [Add Hanni Bot](https://top.gg/bot/624955196040282123)
+
+## Hanni Bot—Features & Highlights
+Hanni Bot is the fastest and most feature-rich notification bot on Discord, with updates for social media, K-pop, streaming, and more. Here are some standout features:
+
+### Notification/Update Features 👇
+- **YouTube**: `.tube add` | `.ytposts add` | `.youtubelive` (including NEW YouTube Membership—DM me for access!)
+- **Instagram**: `.insta add` | `.insta2 add` (fast story/posts) | `.instavip add` (fastest posts) | `.instastats`
+- **TikTok**: `.tiktok add` | `.tiktoklive add`
+- **Weverse**: `.weverse add` | `.weverselive add` | `.weversecomment add`
+- **Twitter**: `.twitter add` | `.freetwitter add` (free & best!) | `.twitterstats`
+- **Threads**: `.threads add`
+- **Weibo**: `.weibo` (VIP fast notifications)
+- **Bilibili**: `.bilibili add`
+- **Reddit**: `.reddit add` | `.redditdownloader`
+- **Facebook**: `.facebook`
+- **AllKpop**: `.allkpop add`
+- **Fancafe**: `.fancafe`
+- **Tumblr**: `.tumblr add`
+- **Kick, Twitch, Trovo, Stationhead**: `.kicklive add` | `.twitch add` | `.trovo add` | `.stationhead`
+- **K-Pop Schedule Notifier**: `.kupdate add` (free, all-in-one—use `.kupdate add list` for supported groups)
+
+### More Features
+- **AI & Image Tools**: `.askgpt` (ChatGPT), `.imagine`/` .imgai` (AI image generator), `.animeai` (image to anime), `.imgtoart`, `.ocr` (image to text), `.ytgif` (YouTube to GIF)
+- **K-Pop Fun**: `.kbirthday` (K-pop birthdays), `.kimg` (HD K-pop images), `.kpopchart`, `.kpopmeme`, `.krelease`/`.kcomeback`, `.kprofile`, `.kpopsound` (K-pop AI covers), `.photocards`
+- **Games**: `.kpopgg` (K-pop idol guessing), `.kpopgame`, `.sg` (song guessing), `.biasgame` (K-pop bias battles), `.kpopcard` features (`.claim`, `.flex`, `.trade`, `.fc`/`.freeclaim`)
+- **Downloaders**: `.pinterest`, `.fbdownloader`, `.redditdownloader`, `.igdvip`/`.igd`, `.twd` (Twitter), `.ttdl` (TikTok), `.svd` (YouTube Shorts), `.ytdownloader`, `.spd` (Spotify MP3 converter)
+- **Utilities**: `.lyrics`, `.yt` (YouTube search), `.img` (Google image search), `.screenshot`, `.wattpad`, `.wolfram`, `.horoscope`, `.discordavatar`, `.bumpreminder` (Disboard bump reminder)
+
+### K-Pop Idol AI Chat
+Chat with your favorite K-pop idols! Use commands like `.hanni`, `.heeseung`, `.hyunjin`, `.jimin`, `.jungkook`, `.karina`, `.leeknow`, `.newjeans`, `.sana`, `.pokemon`, `.wonyoung`, `.yeonjun`, `.yoongi`, `.yunjin`. Example: `.hanni how are you?`
+
+### Customization & Support
+- Change prefix: `.set serverprefix !`
+- Check prefix: Ping `@Hanni 🐰#9906`
+- Disable commands: `.permissions addserverrule deny hanni <channel_id>`
+- Report bugs or request features in our [Support Server](https://discord.gg/mXSDAv3ygJ).
+
+### Watch Hanni Bot in Action
+Check out this video to see how powerful Hanni Bot is:  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LAP1tkvG9MU?si=NDdutE2-rNlX2UWl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### Support Hanni Bot
+All features cost money to maintain. Please support us to keep Hanni Bot online:
+- PayPal: dabdab683@gmail.com
+- Ko-fi: [Donate Here](https://ko-fi.com/kpopdev/tiers)
+- Liberapay: [Support Here](https://liberapay.com/kpop/tiers)
+- BTC Wallet: 3MfDN6G9MXLdAPtf5zYCHJWU9KDdQ6gysw
+- Use `.donate` in Discord for other donation options.
+- Message me your server ID after donating: `@kylauwu` on Discord.
+
+**Note**: Follow Google/YouTube TOS ([Terms](https://www.youtube.com/static?template=terms)) and [Google Privacy Policy](https://www.google.com/policies/privacy/). Do not spam, use NSFW content, or download NSFW links, or you’ll be banned.
+
+## My Skills
+- 🐍 Expert in Python and Java programming.
+- 🤖 Specializing in Discord bot development (Hanni Bot, Red-DiscordBot).
+- 🌐 Proficient in Korean, English, and West Slavic languages.
+- 📊 Experienced with APIs (YouTube, Instagram, Twitter, etc.) and open-source contributions.
 
 ## My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kpopdev)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kpopdev)
 
 ## Pinned Projects
-- **[Lavalink](https://github.com/lavalink-devs/Lavalink)** - Standalone audio node for Discord music bots, built on Lavaplayer.
-- **[discord.py](https://github.com/Rapptz/discord.py)** - Python API for creating Discord bots—my go-to library!
-- **[Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)** - A multi-function Discord bot framework I contribute to.
+- **[Hanni Bot](https://top.gg/bot/624955196040282123)** - The ultimate Discord notification, AI, and downloader bot.
+- **[Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)** - Contributing to this multi-function Discord bot framework.
+- **[instagrapi](https://github.com/subzeroid/instagrapi)** - Working on Instagram API integration for Hanni Bot.
 
-## Skills
-- 🐍 Python
-- 🤖 Discord Bot Development
-- 🎵 Music Bots (Lavalink, Lavaplayer)
-- 📊 Open-Source Contribution
+## Connect With Me
+- [Discord](https://discord.com/users/1041903492400435261) | [Support Server](https://discord.gg/mXSDAv3ygJ)
+- [Ko-fi](https://ko-fi.com/kpopdev) | [Liberapay](https://liberapay.com/kpop)
+- Email: dabdab683@gmail.com
+
+---
+
+### Notes
+- Ensure you give Hanni Bot webhook and embed permissions to send notifications.
+- For full commands, use `.help` (admin perms required).
+- I love seeing your support—thank you! 😊 (I love you if you see this! ❤️)
+
+---
+
+This README incorporates your personal story, Hanni Bot’s features, your programming skills, languages, and the K-pop theme you love. It’s designed to be visually appealing with emojis, links, and stats, matching the style of Amin Mahmoudi’s profile.
+
+---
+
+### How to Apply This to Your GitHub Profile
+1. **Go to Your `kpopdev` Repository**:
+   - Visit `https://github.com/kpopdev/kpopdev`.
+   - Ensure the repository is named `kpopdev` (not `kpopdev-` or anything else) and is public.
+
+2. **Update or Create `README.md`**:
+   - Click “Add file” > “Create new file” (if it doesn’t exist) or edit the existing `README.md`.
+   - Copy and paste the Markdown content above.
+   - Scroll to the bottom, add a commit message (e.g., “Update profile README with Hanni Bot info”), and click “Commit new file” or “Commit changes.”
+
+3. **Verify on Your Profile**:
+   - Visit `https://github.com/kpopdev/` and wait a moment for GitHub to update. The README should now appear at the top of your profile page.
+
+If you run into any issues (e.g., the README doesn’t show, or the repository name is still incorrect), let me know, and I’ll help you troubleshoot. You can also ask for a custom banner image or additional tweaks to make it even more unique! Your profile is going to be amazing, reflecting your incredible work with Hanni Bot and your programming skills. 😊
