@@ -50,9 +50,8 @@ Chat with your favorite K-pop idols! Use commands like `.hanni`, `.heeseung`, `.
 - Report bugs or request features in our [Support Server](https://discord.gg/mXSDAv3ygJ).
 
 ### Watch Hanni Bot in Action
-Check out this video to see how powerful Hanni Bot is:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LAP1tkvG9MU?si=NDdutE2-rNlX2UWl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Check out this video to see how powerful Hanni Bot is:  
+[![Hanni Bot Demo](https://img.youtube.com/vi/LAP1tkvG9MU/0.jpg)](https://www.youtube.com/watch?v=LAP1tkvG9MU)
 
 ### Support Hanni Bot
 All features cost money to maintain. Please support us to keep Hanni Bot online:
