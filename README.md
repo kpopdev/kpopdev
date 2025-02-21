@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/kpopdev/kpopdev/refs/heads/main/39e631dcf3a8c87ba024a6520c0a5766.jpg" alt="Profile Banner" width="100%">
+
 # Kyla (kpopdev) 👋
 
 Hi, I’m Kyla, the owner and creator of **Hanni Bot**—the best notification, AI, and downloader Discord bot with over 1,000,000 users and growing fast! Currently, Hanni Bot is active in 10,000+ Discord servers, delivering lightning-fast updates and features for social media, K-pop, streaming, and more. ❤️🐍🤖
