@@ -49,7 +49,7 @@ Chat with your favorite K-pop idols! Use commands like `.hanni`, `.heeseung`, `.
 - Disable commands: `.permissions addserverrule deny hanni <channel_id>`
 - Report bugs or request features in our [Support Server](https://discord.gg/mXSDAv3ygJ).
 
-## YouTube Feeds API by Hanni Bot
+## YouTube Feeds API by Kyla <3
 I also offer the **YouTube Feeds API**, a lightning-fast tool to get the latest videos from YouTube channels! 🌟 Check out its awesome features:
 
 - Get all videos from a YouTube channel.
