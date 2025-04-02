@@ -67,7 +67,8 @@ All features cost money to maintain. Please support us to keep Hanni Bot online:
 - PayPal: dabdab683@gmail.com
 - Ko-fi: [Donate Here](https://ko-fi.com/kpopdev/tiers)
 - Liberapay: [Support Here](https://liberapay.com/kpop/tiers)
-- BTC Wallet: 3MfDN6G9MXLdAPtf5zYCHJWU9KDdQ6gysw
+- BTC Wallet: 39cTVjafbfmbeCyZKmkV6L5EA53XLVpjBN
+- Solana wallet: Be6QscRaJ1jzss6pASh56eRPKYpZXcBWyVEeHD27jw4p
 - Use `.donate` in Discord for other donation options.
 - Message me your server ID after donating: `@kylauwu` on Discord.
 
