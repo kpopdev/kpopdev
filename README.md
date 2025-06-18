@@ -5,13 +5,13 @@
 Hi, I’m Kyla, the owner and creator of **Hanni Bot**—the best notification, AI, and downloader Discord bot with over 1,000,000 users and growing fast! Currently, Hanni Bot is active in 10,000+ Discord servers, delivering lightning-fast updates and features for social media, K-pop, streaming, and more. ❤️🐍🤖
 
 ## About Me
-- 🔭 I’m currently working on **Hanni Bot** (https://top.gg/bot/624955196040282123), a powerful Discord bot, and contributing to open-source projects like [Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot).
+- 🔭 I’m currently working on **Hanni Bot** (https://yjumlydf.manus.space/), a powerful Discord bot, and contributing to open-source projects like [Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot).
 - 🌱 I’m learning and mastering Python, Java, and more to enhance my bot development skills.
 - 💬 Ask me about Discord bots, K-pop notifications, or programming—I’m here to help! My Discord username is `@kylauwu`.
 - 🎵 Inspired by K-pop and coding, I bring my passion for K-pop into Hanni Bot’s features!
 - 🌐 Languages: Fluent in Korean, English, and West Slavic languages.
 - 📫 Reach me on Discord: `@kylauwu` or email: dabdab683@gmail.com
-- 🌐 [Hanni Bot Support Server](https://discord.gg/mXSDAv3ygJ) | [Add Hanni Bot](https://top.gg/bot/624955196040282123)
+- 🌐 [Hanni Bot Support Server](https://discord.gg/mXSDAv3ygJ) | [Add Hanni Bot](https://discord.com/oauth2/authorize?client_id=624955196040282123)
 
 ## Hanni Bot—Features & Highlights
 Hanni Bot is the fastest and most feature-rich notification bot on Discord, with updates for social media, K-pop, streaming, and more. Here are some standout features:
@@ -87,7 +87,7 @@ All features cost money to maintain. Please support us to keep Hanni Bot online:
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 ## Pinned Projects
-- **[Hanni Bot](https://top.gg/bot/624955196040282123)** - The ultimate Discord notification, AI, and downloader bot.
+- **[Hanni Bot](https://discord.com/oauth2/authorize?client_id=624955196040282123)** - The ultimate Discord notification, AI, and downloader bot.
 - **[Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot)** - Contributing to this multi-function Discord bot framework.
 - **[instagrapi](https://github.com/subzeroid/instagrapi)** - Working on Instagram API integration for Hanni Bot.
 
