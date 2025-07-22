@@ -8,7 +8,7 @@ Hi, I’m Kyla, the owner and creator of **Hanni Bot**—the best notification, 
 
 
 ## About Me
-- 🔭 I’m currently working on **Hanni Bot** (https://yjumlydf.manus.space/), a powerful Discord bot, and contributing to open-source projects like [Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot).
+- 🔭 I’m currently working on **Hanni Bot** (https://discord.bots.gg/bots/624955196040282123), a powerful Discord bot, and contributing to open-source projects like [Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot).
 - 🌱 I’m learning and mastering Python, Java, and more to enhance my bot development skills.
 - 💬 Ask me about Discord bots, K-pop notifications, or programming—I’m here to help! My Discord username is `@kylauwu`.
 - 🎵 Inspired by K-pop and coding, I bring my passion for K-pop into Hanni Bot’s features!
