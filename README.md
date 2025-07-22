@@ -4,6 +4,9 @@
 
 Hi, I’m Kyla, the owner and creator of **Hanni Bot**—the best notification, AI, and downloader Discord bot with over 1,000,000 users and growing fast! Currently, Hanni Bot is active in 10,000+ Discord servers, delivering lightning-fast updates and features for social media, K-pop, streaming, and more. ❤️🐍🤖
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G314VFD)
+
+
 ## About Me
 - 🔭 I’m currently working on **Hanni Bot** (https://yjumlydf.manus.space/), a powerful Discord bot, and contributing to open-source projects like [Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot).
 - 🌱 I’m learning and mastering Python, Java, and more to enhance my bot development skills.
