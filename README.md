@@ -69,9 +69,6 @@ Check out this video to see how powerful Hanni Bot is:
 All features cost money to maintain. Please support us to keep Hanni Bot online:
 - PayPal: dabdab683@gmail.com
 - Ko-fi: [Donate Here](https://ko-fi.com/kpopdev/tiers)
-- Liberapay: [Support Here](https://liberapay.com/kpop/tiers)
-- BTC Wallet: 18ReTpYqFrA1EM9TGkyJdcQxJDNCu6HwgR
-- Solana wallet: 7fckhMsoFKPQnugDhFfdzCuPnAXkFcagVp3B2csPLQ8V
 - Use `.donate` in Discord for other donation options.
 - Message me your server ID after donating: `@kylauwu` on Discord.
 
